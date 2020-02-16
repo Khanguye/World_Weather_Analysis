@@ -130,3 +130,7 @@ dmypy.json
 
 #config file
 config.py
+
+#additional files
+API_practice.ipynb
+random_numbers.ipynb
