@@ -43,7 +43,7 @@
 
 ***Save the search data to CSV***
 
-[WeatherPy_vacation.csv](weather_data/WeatherPy_vacation.csv.csv)
+[WeatherPy_vacation.csv](weather_data/WeatherPy_vacation.csv)
 
 ***Screenshot: The marker layer with google maps***
 
