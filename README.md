@@ -29,7 +29,7 @@
 
 ***Source Code***
 
-[Weather_Database.ipynb](weather_data/Weather_Database.ipynb)
+[Weather_Database.ipynb](Weather_Database.ipynb)
 
 ### 2. Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
 
@@ -43,7 +43,7 @@
 
 ***Save the search data to CSV***
 
-[WeatherPy_vacation.csv](weather_data/WeatherPy_vacation.csv.csv)
+[WeatherPy_vacation.csv](weather_data/WeatherPy_vacation.csv)
 
 ***Screenshot: The marker layer with google maps***
 
@@ -51,7 +51,7 @@
 
 ***Source Code***
 
-[Vacation_Search.ipynb](weather_data/Vacation_Search.ipynb)
+[Vacation_Search.ipynb](Vacation_Search.ipynb)
 
 ### 3. Create a Travel Itinerary with a Corresponding Map
 
@@ -69,4 +69,4 @@
 
 ***Source Code***
 
-[Vacation_Itinerary.ipynb](weather_data/Vacation_Itinerary.ipynb)
+[Vacation_Itinerary.ipynb](Vacation_Itinerary.ipynb)
